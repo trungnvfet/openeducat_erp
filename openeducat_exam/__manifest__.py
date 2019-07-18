@@ -21,7 +21,7 @@
 
 {
     'name': 'OpenEduCat Exam',
-    'version': '10.0.3.0.0',
+    'version': '11.0.1.0.0',
     'license': 'LGPL-3',
     'category': 'Education',
     "sequence": 3,
@@ -31,6 +31,7 @@
     'website': 'http://www.openeducat.org',
     'depends': ['openeducat_core', 'openeducat_classroom'],
     'data': [
+        'views/res_partner_view.xml',
         'views/exam_attendees_view.xml',
         'views/exam_room_view.xml',
         'views/exam_session_view.xml',

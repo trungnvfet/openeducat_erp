@@ -70,8 +70,7 @@
 
         <record id="op_subject_12" model="op.subject">
             <field name="code">LRTP-005</field>
-            <field name="name">Project-Land Restoration Techniques
-            </field>
+            <field name="name">Project-Land Restoration Techniques</field>
             <field name="type">theory</field>
         </record>
 
@@ -98,30 +97,35 @@
             <field name="code">IELTS-004</field>
             <field name="name">IELTS-Speaking</field>
             <field name="type">both</field>
+            <field name="subject_type">elective</field>
         </record>
 
         <record id="op_subject_17" model="op.subject">
             <field name="code">G8-01</field>
             <field name="name">Mathematics</field>
             <field name="type">theory</field>
+            <field name="subject_type">elective</field>
         </record>
 
         <record id="op_subject_18" model="op.subject">
             <field name="code">G8-02</field>
             <field name="name">English</field>
             <field name="type">theory</field>
+            <field name="subject_type">elective</field>
         </record>
 
         <record id="op_subject_19" model="op.subject">
             <field name="code">G8-03</field>
             <field name="name">Science</field>
             <field name="type">both</field>
+            <field name="subject_type">elective</field>
         </record>
 
         <record id="op_subject_20" model="op.subject">
             <field name="code">G8-04</field>
             <field name="name">Social</field>
             <field name="type">theory</field>
+            <field name="subject_type">elective</field>
         </record>
 
     </data>

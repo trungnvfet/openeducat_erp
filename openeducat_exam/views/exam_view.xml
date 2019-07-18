@@ -80,11 +80,7 @@
                     <field name="min_marks" />
                     <newline />
                     <group expand="0" string="Group By...">
-                        <filter string="Course" domain="[]" context="{'group_by':'course_id'}" />
-                        <filter string="Batch" domain="[]" context="{'group_by':'batch_id'}" />
                         <filter string="Subject" domain="[]" context="{'group_by':'subject_id'}" />
-                        <filter string="Standard" domain="[]"
-                            context="{'group_by':'standard_id'}" />
                         <filter string="Exam Code" domain="[]"
                             context="{'group_by':'exam_code'}" />
                         <filter string="State" domain="[]" context="{'group_by':'state'}" />

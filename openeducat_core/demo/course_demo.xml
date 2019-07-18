@@ -7,7 +7,6 @@
             <field name="name">Bachelor of Accountancy</field>
             <field name="evaluation_type">GPA</field>
             <field name="section">Bachelors Course</field>
-            <field name="subject_ids" eval="" />
         </record>
 
         <record id="op_course_2" model="op.course">
